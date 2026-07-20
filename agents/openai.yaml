@@ -1,0 +1,4 @@
+interface:
+  display_name: "高清净白扫描"
+  short_description: "将文档照片自动校正、背景净白并输出高清标准 A4 PDF 文件"
+  default_prompt: "使用 $hd-clean-scan 将这张文档照片制作成高清净白扫描版 PDF。"
